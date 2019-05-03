@@ -1,2 +1,2 @@
 # ssmdemo
-spring-springmvc-mybatis的一个小demo
+spring-springmvc-mybatis整合的一个小demo
